@@ -46,4 +46,3 @@ src/
   merge.ts       # merge implementation
   merge.test.ts  # unit tests
 ```
-
